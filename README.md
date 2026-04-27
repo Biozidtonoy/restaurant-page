@@ -1,1 +1,1 @@
-# restaurant-page
+it just basic restaurant page to practise webpack and bundle files
